@@ -1,0 +1,33 @@
+
+template < class T>
+	void nhap(T a[], int n)
+	{
+		int i;
+		cout << "Nhap cac phan tu cua mang
+template < class T>
+	void nhap(T a[], int n)
+	{
+		int i;
+		cout << "Nhap cac phan tu cua mang :\n";
+		for (i = 0; i < n; i++)
+		{
+			cout << "A[" << i + 1 << "]=";
+			cin >> a[i];
+		}
+	}
+
+template < class T>
+	void xuat(T a[], int n)
+	{
+		int i, j; :\n";
+		for (i = 0; i < n; i++)
+		{
+			cout << "A[" << i + 1 << "]=";
+			cin >> a[i];
+		}
+	}
+
+template < class T>
+	void xuat(T a[], int n)
+	{
+		int i, j;
